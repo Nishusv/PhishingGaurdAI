@@ -1,0 +1,5 @@
+length,has_https,has_at_symbol,has_ip,subdomain_count,label
+85,1,0,1,2,1
+64,1,1,0,0,0
+72,1,0,1,1,1
+50,1,0,0,0,0

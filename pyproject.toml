@@ -1,0 +1,12 @@
+[project]
+name = "phishing-url-detector"
+version = "0.1.0"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "joblib",
+    "tldextract",
+    "requests"
+]
